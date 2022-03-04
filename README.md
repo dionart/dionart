@@ -59,3 +59,5 @@
     <img src="https://img.shields.io/badge/-Email-2047A4?style=for-the-badge&logo=Gmail&logoColor=FFFFFF"/>
   </a>
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dionartl&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
