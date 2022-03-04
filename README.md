@@ -2,7 +2,7 @@
 ## **Software Developer**
 
 <p align="left"> 
- 🖖 Olá, meu nome é Arthur Dionízio. Sou <strong>Front-end developer</strong> e <strong>Mobile developer</strong>.
+ 🖖 Olá, meu nome é Arthur Dionízio. Sou <strong>Front-end</strong> e <strong>Mobile developer</strong>.
 </p>
 
 <p align="left">
