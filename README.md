@@ -11,7 +11,7 @@
   💼 Ferramentas: <strong>VS Code, Figma, Trello, Jira, Vercel, Git, Heroku, AdobeXD.</strong>
 </p>
 
- <p align="center">
+ <p align="left">
    <a href="https://code.visualstudio.com/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
    </a>
@@ -46,7 +46,7 @@
 
 <br>
 
-<p align="center">
+<p align="left">
   <a href="https://www.instagram.com/diionart/" alt="Instagram">
     <img src="https://img.shields.io/badge/-Instagram-2047A4?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/iuricode"/>
   </a>
