@@ -11,7 +11,9 @@
   💼 Ferramentas: <strong>VS Code, Figma, Trello, Jira, Vercel, Git, Heroku, AdobeXD.</strong>
 </p>
 
- <p align="left" margin-top="10px">
+<br>
+
+ <p align="left" style="margin-top:10">
    <a href="https://code.visualstudio.com/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
    </a>
