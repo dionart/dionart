@@ -46,16 +46,16 @@
 
 <br>
 
-<p align="left">
-  <a href="https://www.instagram.com/dionart/" alt="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-6610F2?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/iuricode"/>
+<p align="center">
+  <a href="https://www.instagram.com/diionart/" alt="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-2047A4?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/iuricode"/>
   </a>
   
   <a href="https://www.linkedin.com/in/dionart" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/iuricode"/>
+    <img src="https://img.shields.io/badge/-Linkedin-2047A4?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/iuricode"/>
   </a>
   
   <a href = "mailto: arthurdaao@hotmail.com" alt="Email">
-    <img src="https://img.shields.io/badge/-Email-6610F2?style=for-the-badge&logo=Gmail&logoColor=FFFFFF"/>
+    <img src="https://img.shields.io/badge/-Email-2047A4?style=for-the-badge&logo=Gmail&logoColor=FFFFFF"/>
   </a>
 </p>
