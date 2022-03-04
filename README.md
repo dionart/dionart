@@ -1,5 +1,5 @@
 
-## **Software Developer**
+## **Software Developer** :computer:
 
 <p align="left"> 
  🖖 Olá, meu nome é Arthur Dionízio. Sou <strong>Front-end</strong> e <strong>Mobile developer</strong>.
