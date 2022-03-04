@@ -48,7 +48,9 @@
 
 <br>
 
-<p align="left">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dionart&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+<p align="center">
   <a href="https://www.instagram.com/diionart/" alt="Instagram">
     <img src="https://img.shields.io/badge/-Instagram-2047A4?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/iuricode"/>
   </a>
@@ -61,5 +63,3 @@
     <img src="https://img.shields.io/badge/-Email-2047A4?style=for-the-badge&logo=Gmail&logoColor=FFFFFF"/>
   </a>
 </p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dionart&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
