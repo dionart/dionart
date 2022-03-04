@@ -52,7 +52,7 @@
 
 <br />
 
-![Daniel github stats](https://github-readme-stats.vercel.app/api?username=dionartl&show_icons=true&theme=dark)
+![Daniel github stats](https://github-readme-stats.vercel.app/api?username=dionart&show_icons=true&theme=dark)
 
 <br />
 
