@@ -52,7 +52,9 @@
 
 <br />
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Daniel github stats](https://github-readme-stats.vercel.app/api?username=dionartl&show_icons=true&theme=dark)
+
+<br />
 
 <p align="center">
   <a href="https://www.instagram.com/diionart/" alt="Instagram">
