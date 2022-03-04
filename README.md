@@ -10,12 +10,12 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VS Code, Figma, Trello, Jira, Vercel, Git, Heroku, AdobeXD.</strong>
+  💼 Ferramentas: <strong>VS Code, Figma, Trello, Jira, Vercel, Git, Heroku, AdobeXD, Slack.</strong>
 </p>
 
 <br>
 
- <p align="left" style="margin-top:10">
+ <p align="left">
    <a href="https://code.visualstudio.com/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
    </a>
@@ -43,6 +43,9 @@
    <a href="https://www.slack.com">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt="slack" width="40" height="40"/>
    </a>
+  <a href="https://sass-lang.com/">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="git" width="40" height="40"/>
+   </a>
    <a href="https://git-scm.com/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
    </a>
@@ -54,7 +57,7 @@
 
 <br />
 
-![Daniel github stats](https://github-readme-stats.vercel.app/api?username=dionart&show_icons=true&theme=dark)
+![Arthur github stats](https://github-readme-stats.vercel.app/api?username=dionart&show_icons=true&theme=dark)
 
 <br />
 
